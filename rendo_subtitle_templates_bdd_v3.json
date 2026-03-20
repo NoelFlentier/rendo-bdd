@@ -1,0 +1,2179 @@
+[
+  {
+    "template_name": "TXT_3M_BLANC",
+    "group_index": 0,
+    "timeline_start_sec": 0.24,
+    "timeline_end_sec": 1.0,
+    "total_duration_sec": 0.76,
+    "n_text_layers": 2,
+    "n_markers": 0,
+    "tracks_used": [
+      "V6",
+      "V7"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "724",
+        "track": "V6",
+        "text": "le",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "no_style",
+        "start_sec": 0.24,
+        "end_sec": 1.0,
+        "dur_sec": 0.76,
+        "offset_from_group_start": 0.0,
+        "x": 0.355729,
+        "y": 0.506481
+      },
+      {
+        "vcti_oid": "757",
+        "track": "V7",
+        "text": "boulot",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 0.4,
+        "end_sec": 1.0,
+        "dur_sec": 0.6,
+        "offset_from_group_start": 0.16,
+        "x": 0.338334,
+        "y": 0.554167
+      }
+    ],
+    "text_start_sec": 0.24,
+    "text_end_sec": 1.0,
+    "text_duration_sec": 0.76,
+    "marker_name_from_v4": "TXT_3M_BLANC",
+    "marker_start_sec": 2.0,
+    "marker_end_sec": 1.0,
+    "marker_dur_sec": -1.0
+  },
+  {
+    "template_name": "TXT_4M_BLANC",
+    "group_index": 1,
+    "timeline_start_sec": 2.0,
+    "timeline_end_sec": 3.6,
+    "total_duration_sec": 1.6,
+    "n_text_layers": 4,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7",
+      "V8"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "692",
+        "track": "V5",
+        "text": "une",
+        "effects": [
+          "TR - Appear Down"
+        ],
+        "style": "no_style",
+        "start_sec": 2.0,
+        "end_sec": 3.6,
+        "dur_sec": 1.6,
+        "offset_from_group_start": 0.0,
+        "x": 0.426562,
+        "y": 0.352315
+      },
+      {
+        "vcti_oid": "725",
+        "track": "V6",
+        "text": "compet",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 2.04,
+        "end_sec": 3.6,
+        "dur_sec": 1.56,
+        "offset_from_group_start": 0.04,
+        "x": 0.338125,
+        "y": 0.62037
+      },
+      {
+        "vcti_oid": "758",
+        "track": "V7",
+        "text": "le",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "no_style",
+        "start_sec": 2.32,
+        "end_sec": 3.6,
+        "dur_sec": 1.28,
+        "offset_from_group_start": 0.32,
+        "x": 0.345313,
+        "y": 0.563426
+      },
+      {
+        "vcti_oid": "781",
+        "track": "V8",
+        "text": "dimanche",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "no_style",
+        "start_sec": 2.56,
+        "end_sec": 3.6,
+        "dur_sec": 1.04,
+        "offset_from_group_start": 0.56,
+        "x": 0.403125,
+        "y": 0.410648
+      }
+    ],
+    "text_start_sec": 2.0,
+    "text_end_sec": 3.6,
+    "text_duration_sec": 1.6,
+    "marker_name_from_v4": "TXT_4M_BLANC",
+    "marker_start_sec": 2.0,
+    "marker_end_sec": 3.6,
+    "marker_dur_sec": 1.6
+  },
+  {
+    "template_name": "TXT_5M_BLANC",
+    "group_index": 2,
+    "timeline_start_sec": 4.6,
+    "timeline_end_sec": 5.88,
+    "total_duration_sec": 1.28,
+    "n_text_layers": 5,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7",
+      "V8",
+      "V9"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "693",
+        "track": "V5",
+        "text": "une",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "no_style",
+        "start_sec": 4.6,
+        "end_sec": 5.88,
+        "dur_sec": 1.28,
+        "offset_from_group_start": 0.0,
+        "x": 0.360417,
+        "y": 0.578372
+      },
+      {
+        "vcti_oid": "726",
+        "track": "V6",
+        "text": "partie",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 4.8,
+        "end_sec": 5.88,
+        "dur_sec": 1.08,
+        "offset_from_group_start": 0.2,
+        "x": 0.346042,
+        "y": 0.717084
+      },
+      {
+        "vcti_oid": "759",
+        "track": "V7",
+        "text": "avec",
+        "effects": [
+          "TR - Fade In"
+        ],
+        "style": "no_style",
+        "start_sec": 5.08,
+        "end_sec": 5.88,
+        "dur_sec": 0.8,
+        "offset_from_group_start": 0.48,
+        "x": 0.332292,
+        "y": 0.646296
+      },
+      {
+        "vcti_oid": "782",
+        "track": "V8",
+        "text": "des",
+        "effects": [
+          "TR - Fade In"
+        ],
+        "style": "no_style",
+        "start_sec": 5.28,
+        "end_sec": 5.88,
+        "dur_sec": 0.6,
+        "offset_from_group_start": 0.68,
+        "x": 0.359375,
+        "y": 0.635185
+      },
+      {
+        "vcti_oid": "792",
+        "track": "V9",
+        "text": "amis",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 5.32,
+        "end_sec": 5.88,
+        "dur_sec": 0.56,
+        "offset_from_group_start": 0.72,
+        "x": 0.523958,
+        "y": 0.505556
+      }
+    ],
+    "text_start_sec": 4.6,
+    "text_end_sec": 5.88,
+    "text_duration_sec": 1.28,
+    "marker_name_from_v4": "TXT_5M_BLANC",
+    "marker_start_sec": 4.6,
+    "marker_end_sec": 5.88,
+    "marker_dur_sec": 1.28
+  },
+  {
+    "template_name": "TXT_3M_BLANC_OVERLAY",
+    "group_index": 3,
+    "timeline_start_sec": 7.0,
+    "timeline_end_sec": 8.32,
+    "total_duration_sec": 1.32,
+    "n_text_layers": 3,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "590",
+        "track": "V5",
+        "text": "pensent",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "no_style",
+        "start_sec": 7.0,
+        "end_sec": 8.32,
+        "dur_sec": 1.32,
+        "offset_from_group_start": 0.0,
+        "x": 0.307292,
+        "y": 0.410648
+      },
+      {
+        "vcti_oid": "591",
+        "track": "V6",
+        "text": "qu’ils",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "no_style",
+        "start_sec": 7.28,
+        "end_sec": 8.32,
+        "dur_sec": 1.04,
+        "offset_from_group_start": 0.28,
+        "x": 0.43125,
+        "y": 0.528704
+      },
+      {
+        "vcti_oid": "760",
+        "track": "V7",
+        "text": "stagnent",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 7.72,
+        "end_sec": 8.32,
+        "dur_sec": 0.6,
+        "offset_from_group_start": 0.72,
+        "x": 0.528231,
+        "y": 0.52739
+      }
+    ],
+    "text_start_sec": 7.0,
+    "text_end_sec": 8.32,
+    "text_duration_sec": 1.32,
+    "marker_name_from_v4": "TXT_3M_BLANC_OVERLAY",
+    "marker_start_sec": 7.0,
+    "marker_end_sec": 8.32,
+    "marker_dur_sec": 1.32
+  },
+  {
+    "template_name": "TXT_5M_BLANC_RIGHT",
+    "group_index": 4,
+    "timeline_start_sec": 9.0,
+    "timeline_end_sec": 10.4,
+    "total_duration_sec": 1.4,
+    "n_text_layers": 4,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7",
+      "V8"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "694",
+        "track": "V5",
+        "text": "qui",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 9.0,
+        "end_sec": 10.4,
+        "dur_sec": 1.4,
+        "offset_from_group_start": 0.0,
+        "x": 0.667448,
+        "y": 0.326389
+      },
+      {
+        "vcti_oid": "727",
+        "track": "V6",
+        "text": "ne te",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 9.24,
+        "end_sec": 10.4,
+        "dur_sec": 1.16,
+        "offset_from_group_start": 0.24,
+        "x": 0.608333,
+        "y": 0.426389
+      },
+      {
+        "vcti_oid": "761",
+        "track": "V7",
+        "text": "correspondent",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 9.4,
+        "end_sec": 10.4,
+        "dur_sec": 1.0,
+        "offset_from_group_start": 0.4,
+        "x": 0.590885,
+        "y": 0.385648
+      },
+      {
+        "vcti_oid": "783",
+        "track": "V8",
+        "text": "pas",
+        "effects": [
+          "TR - Appear Down"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 9.92,
+        "end_sec": 10.4,
+        "dur_sec": 0.48,
+        "offset_from_group_start": 0.92,
+        "x": 0.659115,
+        "y": 0.614815
+      }
+    ],
+    "text_start_sec": 9.0,
+    "text_end_sec": 10.4,
+    "text_duration_sec": 1.4,
+    "marker_name_from_v4": "TXT_5M_BLANC_RIGHT",
+    "marker_start_sec": 9.0,
+    "marker_end_sec": 10.4,
+    "marker_dur_sec": 1.4
+  },
+  {
+    "template_name": "TXT_3M_BLANC_Y_POP",
+    "group_index": 5,
+    "timeline_start_sec": 11.0,
+    "timeline_end_sec": 11.96,
+    "total_duration_sec": 0.96,
+    "n_text_layers": 3,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "695",
+        "track": "V5",
+        "text": "500",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:5a6beb82-6e83-4e0c-a",
+        "start_sec": 11.0,
+        "end_sec": 11.96,
+        "dur_sec": 0.96,
+        "offset_from_group_start": 0.0,
+        "x": 0.241406,
+        "y": 0.30787
+      },
+      {
+        "vcti_oid": "728",
+        "track": "V6",
+        "text": "balles",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:5a6beb82-6e83-4e0c-a",
+        "start_sec": 11.24,
+        "end_sec": 11.96,
+        "dur_sec": 0.72,
+        "offset_from_group_start": 0.24,
+        "x": 0.261198,
+        "y": 0.394444
+      },
+      {
+        "vcti_oid": "762",
+        "track": "V7",
+        "text": "par jour",
+        "effects": [
+          "TR - Fade In"
+        ],
+        "style": "other:5a6beb82-6e83-4e0c-a",
+        "start_sec": 11.56,
+        "end_sec": 11.96,
+        "dur_sec": 0.4,
+        "offset_from_group_start": 0.56,
+        "x": 0.22319,
+        "y": 0.451385
+      }
+    ],
+    "text_start_sec": 11.0,
+    "text_end_sec": 11.96,
+    "text_duration_sec": 0.96,
+    "marker_name_from_v4": "TXT_3M_BLANC_Y_POP",
+    "marker_start_sec": 11.0,
+    "marker_end_sec": 11.96,
+    "marker_dur_sec": 0.96
+  },
+  {
+    "template_name": "TXT_2M_BLANC_Y_POP",
+    "group_index": 6,
+    "timeline_start_sec": 13.16,
+    "timeline_end_sec": 14.12,
+    "total_duration_sec": 0.96,
+    "n_text_layers": 2,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "696",
+        "track": "V5",
+        "text": "10h",
+        "effects": [
+          "Fade INN",
+          "Fade OUTT"
+        ],
+        "style": "other:5a6beb82-6e83-4e0c-a",
+        "start_sec": 13.16,
+        "end_sec": 14.12,
+        "dur_sec": 0.96,
+        "offset_from_group_start": 0.0,
+        "x": 0.773177,
+        "y": 0.30787
+      },
+      {
+        "vcti_oid": "729",
+        "track": "V6",
+        "text": "semaine",
+        "effects": [
+          "Fade OUTT",
+          "Fade IN"
+        ],
+        "style": "other:5a6beb82-6e83-4e0c-a",
+        "start_sec": 13.52,
+        "end_sec": 14.12,
+        "dur_sec": 0.6,
+        "offset_from_group_start": 0.36,
+        "x": 0.792969,
+        "y": 0.394444
+      }
+    ],
+    "text_start_sec": 13.16,
+    "text_end_sec": 14.12,
+    "text_duration_sec": 0.96,
+    "marker_name_from_v4": "TXT_2M_BLANC_Y_POP",
+    "marker_start_sec": 13.16,
+    "marker_end_sec": 14.12,
+    "marker_dur_sec": 0.96
+  },
+  {
+    "template_name": "TXT_CASCADE_2",
+    "group_index": 7,
+    "timeline_start_sec": 15.4,
+    "timeline_end_sec": 16.76,
+    "total_duration_sec": 1.36,
+    "n_text_layers": 3,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "697",
+        "track": "V5",
+        "text": "tu te",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "no_style",
+        "start_sec": 15.4,
+        "end_sec": 16.76,
+        "dur_sec": 1.36,
+        "offset_from_group_start": 0.0,
+        "x": 0.597656,
+        "y": 0.349537
+      },
+      {
+        "vcti_oid": "730",
+        "track": "V6",
+        "text": "blesses",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 15.68,
+        "end_sec": 16.32,
+        "dur_sec": 0.64,
+        "offset_from_group_start": 0.28,
+        "x": 0.591667,
+        "y": 0.4
+      },
+      {
+        "vcti_oid": "731",
+        "track": "V6",
+        "text": "frustres",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 16.32,
+        "end_sec": 16.76,
+        "dur_sec": 0.44,
+        "offset_from_group_start": 0.92,
+        "x": 0.591667,
+        "y": 0.4
+      }
+    ],
+    "text_start_sec": 15.4,
+    "text_end_sec": 16.76,
+    "text_duration_sec": 1.36,
+    "marker_name_from_v4": "TXT_CASCADE_2",
+    "marker_start_sec": 15.4,
+    "marker_end_sec": 16.76,
+    "marker_dur_sec": 1.36
+  },
+  {
+    "template_name": "TXT_5M_BLANC_RIGHT_FINAL_VALUE",
+    "group_index": 8,
+    "timeline_start_sec": 17.8,
+    "timeline_end_sec": 19.12,
+    "total_duration_sec": 1.32,
+    "n_text_layers": 5,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7",
+      "V8",
+      "V9"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "698",
+        "track": "V5",
+        "text": "tu changes",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 17.8,
+        "end_sec": 19.12,
+        "dur_sec": 1.32,
+        "offset_from_group_start": 0.0,
+        "x": 0.597656,
+        "y": 0.326389
+      },
+      {
+        "vcti_oid": "732",
+        "track": "V6",
+        "text": "de pro",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 18.32,
+        "end_sec": 19.12,
+        "dur_sec": 0.8,
+        "offset_from_group_start": 0.52,
+        "x": 0.581771,
+        "y": 0.456019
+      },
+      {
+        "vcti_oid": "763",
+        "track": "V7",
+        "text": "tous les",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 18.52,
+        "end_sec": 19.12,
+        "dur_sec": 0.6,
+        "offset_from_group_start": 0.72,
+        "x": 0.723862,
+        "y": 0.439819
+      },
+      {
+        "vcti_oid": "784",
+        "track": "V8",
+        "text": "6",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 18.72,
+        "end_sec": 19.12,
+        "dur_sec": 0.4,
+        "offset_from_group_start": 0.92,
+        "x": 0.62413,
+        "y": 0.597687
+      },
+      {
+        "vcti_oid": "793",
+        "track": "V9",
+        "text": "mois",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 18.76,
+        "end_sec": 19.12,
+        "dur_sec": 0.36,
+        "offset_from_group_start": 0.96,
+        "x": 0.628385,
+        "y": 0.592593
+      }
+    ],
+    "text_start_sec": 17.8,
+    "text_end_sec": 19.12,
+    "text_duration_sec": 1.32,
+    "marker_name_from_v4": "TXT_5M_BLANC_RIGHT_FINAL_VALUE",
+    "marker_start_sec": 17.8,
+    "marker_end_sec": 19.12,
+    "marker_dur_sec": 1.32
+  },
+  {
+    "template_name": "TXT_3M_1_ACCENT_ MIDDLE_DOWN",
+    "group_index": 9,
+    "timeline_start_sec": 19.8,
+    "timeline_end_sec": 20.96,
+    "total_duration_sec": 1.16,
+    "n_text_layers": 3,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "699",
+        "track": "V5",
+        "text": "ton système",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "no_style",
+        "start_sec": 19.8,
+        "end_sec": 20.96,
+        "dur_sec": 1.16,
+        "offset_from_group_start": 0.0,
+        "x": 0.324479,
+        "y": 0.786111
+      },
+      {
+        "vcti_oid": "733",
+        "track": "V6",
+        "text": "DE",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "no_style",
+        "start_sec": 20.4,
+        "end_sec": 20.96,
+        "dur_sec": 0.56,
+        "offset_from_group_start": 0.6,
+        "x": 0.365144,
+        "y": 0.873147
+      },
+      {
+        "vcti_oid": "764",
+        "track": "V7",
+        "text": "jeu",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 20.48,
+        "end_sec": 20.96,
+        "dur_sec": 0.48,
+        "offset_from_group_start": 0.68,
+        "x": 0.351563,
+        "y": 0.895833
+      }
+    ],
+    "text_start_sec": 19.8,
+    "text_end_sec": 20.96,
+    "text_duration_sec": 1.16,
+    "marker_name_from_v4": "TXT_3M_1_ACCENT_ MIDDLE_DOWN",
+    "marker_start_sec": 19.8,
+    "marker_end_sec": 20.96,
+    "marker_dur_sec": 1.16
+  },
+  {
+    "template_name": "TXT_2M_1_ MIDDLE_DOWN",
+    "group_index": 10,
+    "timeline_start_sec": 21.6,
+    "timeline_end_sec": 22.76,
+    "total_duration_sec": 1.16,
+    "n_text_layers": 2,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "700",
+        "track": "V5",
+        "text": "performance",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "no_style",
+        "start_sec": 21.6,
+        "end_sec": 22.76,
+        "dur_sec": 1.16,
+        "offset_from_group_start": 0.0,
+        "x": 0.502978,
+        "y": 0.786111
+      },
+      {
+        "vcti_oid": "734",
+        "track": "V6",
+        "text": "DURABLE",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "no_style",
+        "start_sec": 22.2,
+        "end_sec": 22.76,
+        "dur_sec": 0.56,
+        "offset_from_group_start": 0.6,
+        "x": 0.499383,
+        "y": 0.873147
+      }
+    ],
+    "text_start_sec": 21.6,
+    "text_end_sec": 22.76,
+    "text_duration_sec": 1.16,
+    "marker_name_from_v4": "TXT_2M_1_ MIDDLE_DOWN",
+    "marker_start_sec": 21.6,
+    "marker_end_sec": 22.76,
+    "marker_dur_sec": 1.16
+  },
+  {
+    "template_name": "TXT_2M_1_ACCENT_ MIDDLE_DOWN",
+    "group_index": 11,
+    "timeline_start_sec": 23.4,
+    "timeline_end_sec": 24.4,
+    "total_duration_sec": 1.0,
+    "n_text_layers": 2,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "701",
+        "track": "V5",
+        "text": "pendant",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "no_style",
+        "start_sec": 23.4,
+        "end_sec": 24.4,
+        "dur_sec": 1.0,
+        "offset_from_group_start": 0.0,
+        "x": 0.502978,
+        "y": 0.810185
+      },
+      {
+        "vcti_oid": "735",
+        "track": "V6",
+        "text": "15 ans",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "other:5a6beb82-6e83-4e0c-a",
+        "start_sec": 23.84,
+        "end_sec": 24.4,
+        "dur_sec": 0.56,
+        "offset_from_group_start": 0.44,
+        "x": 0.499383,
+        "y": 0.897221
+      }
+    ],
+    "text_start_sec": 23.4,
+    "text_end_sec": 24.4,
+    "text_duration_sec": 1.0,
+    "marker_name_from_v4": "TXT_2M_1_ACCENT_ MIDDLE_DOWN",
+    "marker_start_sec": 23.4,
+    "marker_end_sec": 24.4,
+    "marker_dur_sec": 1.0
+  },
+  {
+    "template_name": "TXT_3M_1_ACCENT_ RIGHT",
+    "group_index": 12,
+    "timeline_start_sec": 25.56,
+    "timeline_end_sec": 27.28,
+    "total_duration_sec": 1.72,
+    "n_text_layers": 3,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "702",
+        "track": "V5",
+        "text": "un système",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "no_style",
+        "start_sec": 25.56,
+        "end_sec": 27.28,
+        "dur_sec": 1.72,
+        "offset_from_group_start": 0.0,
+        "x": 0.563542,
+        "y": 0.322685
+      },
+      {
+        "vcti_oid": "736",
+        "track": "V6",
+        "text": "adapté",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "no_style",
+        "start_sec": 26.16,
+        "end_sec": 27.28,
+        "dur_sec": 1.12,
+        "offset_from_group_start": 0.6,
+        "x": 0.570573,
+        "y": 0.415278
+      },
+      {
+        "vcti_oid": "765",
+        "track": "V7",
+        "text": "à eux",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 26.72,
+        "end_sec": 27.28,
+        "dur_sec": 0.56,
+        "offset_from_group_start": 1.16,
+        "x": 0.576563,
+        "y": 0.455093
+      }
+    ],
+    "text_start_sec": 25.56,
+    "text_end_sec": 27.28,
+    "text_duration_sec": 1.72,
+    "marker_name_from_v4": "TXT_3M_1_ACCENT_ RIGHT",
+    "marker_start_sec": 25.56,
+    "marker_end_sec": 27.28,
+    "marker_dur_sec": 1.72
+  },
+  {
+    "template_name": "TXT_4M_BLANC_BRUT_RIGHT",
+    "group_index": 13,
+    "timeline_start_sec": 28.52,
+    "timeline_end_sec": 29.44,
+    "total_duration_sec": 0.92,
+    "n_text_layers": 4,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7",
+      "V8"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "703",
+        "track": "V5",
+        "text": "te",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 28.52,
+        "end_sec": 29.44,
+        "dur_sec": 0.92,
+        "offset_from_group_start": 0.0,
+        "x": 0.667448,
+        "y": 0.326389
+      },
+      {
+        "vcti_oid": "737",
+        "track": "V6",
+        "text": "coûte",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 28.76,
+        "end_sec": 29.44,
+        "dur_sec": 0.68,
+        "offset_from_group_start": 0.24,
+        "x": 0.477865,
+        "y": 0.436111
+      },
+      {
+        "vcti_oid": "766",
+        "track": "V7",
+        "text": "des",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 28.92,
+        "end_sec": 29.44,
+        "dur_sec": 0.52,
+        "offset_from_group_start": 0.4,
+        "x": 0.61875,
+        "y": 0.35787
+      },
+      {
+        "vcti_oid": "785",
+        "track": "V8",
+        "text": "MOIS",
+        "effects": [],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 29.16,
+        "end_sec": 29.44,
+        "dur_sec": 0.28,
+        "offset_from_group_start": 0.64,
+        "x": 0.753125,
+        "y": 0.49213
+      }
+    ],
+    "text_start_sec": 28.52,
+    "text_end_sec": 29.44,
+    "text_duration_sec": 0.92,
+    "marker_name_from_v4": "TXT_4M_BLANC_BRUT_RIGHT",
+    "marker_start_sec": 28.52,
+    "marker_end_sec": 29.44,
+    "marker_dur_sec": 0.92
+  },
+  {
+    "template_name": "TXT_CASCADE_RIGHT_LEFT_DOWN",
+    "group_index": 14,
+    "timeline_start_sec": 30.8,
+    "timeline_end_sec": 33.12,
+    "total_duration_sec": 2.32,
+    "n_text_layers": 6,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "704",
+        "track": "V5",
+        "text": "mon",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "no_style",
+        "start_sec": 30.8,
+        "end_sec": 31.6,
+        "dur_sec": 0.8,
+        "offset_from_group_start": 0.0,
+        "x": 0.654687,
+        "y": 0.4625
+      },
+      {
+        "vcti_oid": "705",
+        "track": "V5",
+        "text": "mon",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "no_style",
+        "start_sec": 31.6,
+        "end_sec": 32.16,
+        "dur_sec": 0.56,
+        "offset_from_group_start": 0.8,
+        "x": 0.060937,
+        "y": 0.658796
+      },
+      {
+        "vcti_oid": "706",
+        "track": "V5",
+        "text": "mes",
+        "effects": [
+          "TR - Appear Down"
+        ],
+        "style": "no_style",
+        "start_sec": 32.16,
+        "end_sec": 33.12,
+        "dur_sec": 0.96,
+        "offset_from_group_start": 1.36,
+        "x": 0.359084,
+        "y": 0.903241
+      },
+      {
+        "vcti_oid": "738",
+        "track": "V6",
+        "text": "niveau",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 30.96,
+        "end_sec": 31.6,
+        "dur_sec": 0.64,
+        "offset_from_group_start": 0.16,
+        "x": 0.649479,
+        "y": 0.510185
+      },
+      {
+        "vcti_oid": "739",
+        "track": "V6",
+        "text": "âge",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 31.72,
+        "end_sec": 32.16,
+        "dur_sec": 0.44,
+        "offset_from_group_start": 0.92,
+        "x": 0.055729,
+        "y": 0.706481
+      },
+      {
+        "vcti_oid": "740",
+        "track": "V6",
+        "text": "capacités",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 32.28,
+        "end_sec": 33.12,
+        "dur_sec": 0.84,
+        "offset_from_group_start": 1.48,
+        "x": 0.340104,
+        "y": 0.950926
+      }
+    ],
+    "text_start_sec": 30.8,
+    "text_end_sec": 33.12,
+    "text_duration_sec": 2.32,
+    "marker_name_from_v4": "TXT_CASCADE_RIGHT_LEFT_DOWN",
+    "marker_start_sec": 30.8,
+    "marker_end_sec": 33.12,
+    "marker_dur_sec": 2.32
+  },
+  {
+    "template_name": "TXT_3M_1_ACCENT_BRUT_RIGHT",
+    "group_index": 15,
+    "timeline_start_sec": 33.72,
+    "timeline_end_sec": 34.64,
+    "total_duration_sec": 0.92,
+    "n_text_layers": 3,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "707",
+        "track": "V5",
+        "text": "il y a",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 33.72,
+        "end_sec": 34.64,
+        "dur_sec": 0.92,
+        "offset_from_group_start": 0.0,
+        "x": 0.698698,
+        "y": 0.326389
+      },
+      {
+        "vcti_oid": "741",
+        "track": "V6",
+        "text": "ta",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 33.92,
+        "end_sec": 34.64,
+        "dur_sec": 0.72,
+        "offset_from_group_start": 0.2,
+        "x": 0.553646,
+        "y": 0.487037
+      },
+      {
+        "vcti_oid": "767",
+        "track": "V7",
+        "text": "façon",
+        "effects": [],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 34.28,
+        "end_sec": 34.64,
+        "dur_sec": 0.36,
+        "offset_from_group_start": 0.56,
+        "x": 0.367448,
+        "y": 0.839352
+      }
+    ],
+    "text_start_sec": 33.72,
+    "text_end_sec": 34.64,
+    "text_duration_sec": 0.92,
+    "marker_name_from_v4": "TXT_3M_1_ACCENT_BRUT_RIGHT",
+    "marker_start_sec": 33.72,
+    "marker_end_sec": 34.64,
+    "marker_dur_sec": 0.92
+  },
+  {
+    "template_name": "TXT_3M_POP_LEFT_RIGHT_LEFT",
+    "group_index": 16,
+    "timeline_start_sec": 35.52,
+    "timeline_end_sec": 37.6,
+    "total_duration_sec": 2.08,
+    "n_text_layers": 3,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "708",
+        "track": "V5",
+        "text": "tentant",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 35.52,
+        "end_sec": 36.28,
+        "dur_sec": 0.76,
+        "offset_from_group_start": 0.0,
+        "x": 0.236719,
+        "y": 0.357407
+      },
+      {
+        "vcti_oid": "742",
+        "track": "V6",
+        "text": "accessible",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 36.16,
+        "end_sec": 36.92,
+        "dur_sec": 0.76,
+        "offset_from_group_start": 0.64,
+        "x": 0.78724,
+        "y": 0.279167
+      },
+      {
+        "vcti_oid": "768",
+        "track": "V7",
+        "text": "facile",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 36.84,
+        "end_sec": 37.6,
+        "dur_sec": 0.76,
+        "offset_from_group_start": 1.32,
+        "x": 0.245052,
+        "y": 0.189352
+      }
+    ],
+    "text_start_sec": 35.52,
+    "text_end_sec": 37.6,
+    "text_duration_sec": 2.08,
+    "marker_name_from_v4": "TXT_3M_POP_LEFT_RIGHT_LEFT",
+    "marker_start_sec": 35.52,
+    "marker_end_sec": 37.6,
+    "marker_dur_sec": 2.08
+  },
+  {
+    "template_name": "TXT_4M_BLANC_ POP_UPTODOWN",
+    "group_index": 17,
+    "timeline_start_sec": 39.0,
+    "timeline_end_sec": 42.76,
+    "total_duration_sec": 3.76,
+    "n_text_layers": 4,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7",
+      "V8"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "709",
+        "track": "V5",
+        "text": "la pression",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 39.0,
+        "end_sec": 40.32,
+        "dur_sec": 1.32,
+        "offset_from_group_start": 0.0,
+        "x": 0.65625,
+        "y": 0.462494
+      },
+      {
+        "vcti_oid": "743",
+        "track": "V6",
+        "text": "compétition",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 39.88,
+        "end_sec": 41.2,
+        "dur_sec": 1.32,
+        "offset_from_group_start": 0.88,
+        "x": 0.123958,
+        "y": 0.555556
+      },
+      {
+        "vcti_oid": "769",
+        "track": "V7",
+        "text": "avec&#13;des amis",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 40.76,
+        "end_sec": 42.08,
+        "dur_sec": 1.32,
+        "offset_from_group_start": 1.76,
+        "x": 0.897293,
+        "y": 0.596298
+      },
+      {
+        "vcti_oid": "786",
+        "track": "V8",
+        "text": "dernier trou",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 41.44,
+        "end_sec": 42.76,
+        "dur_sec": 1.32,
+        "offset_from_group_start": 2.44,
+        "x": 0.252865,
+        "y": 0.904167
+      }
+    ],
+    "text_start_sec": 39.0,
+    "text_end_sec": 42.76,
+    "text_duration_sec": 3.76,
+    "marker_name_from_v4": "TXT_4M_BLANC_ POP_UPTODOWN",
+    "marker_start_sec": 39.0,
+    "marker_end_sec": 42.76,
+    "marker_dur_sec": 3.76
+  },
+  {
+    "template_name": "TXT_CASCADE_3_RIGHT",
+    "group_index": 18,
+    "timeline_start_sec": 48.48,
+    "timeline_end_sec": 51.12,
+    "total_duration_sec": 2.64,
+    "n_text_layers": 5,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "711",
+        "track": "V5",
+        "text": "entre",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "no_style",
+        "start_sec": 48.48,
+        "end_sec": 51.12,
+        "dur_sec": 2.64,
+        "offset_from_group_start": 0.0,
+        "x": 0.597656,
+        "y": 0.349537
+      },
+      {
+        "vcti_oid": "745",
+        "track": "V6",
+        "text": "2",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "no_style",
+        "start_sec": 48.72,
+        "end_sec": 51.12,
+        "dur_sec": 2.4,
+        "offset_from_group_start": 0.24,
+        "x": 0.526302,
+        "y": 0.431944
+      },
+      {
+        "vcti_oid": "771",
+        "track": "V7",
+        "text": "cours",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 49.04,
+        "end_sec": 49.68,
+        "dur_sec": 0.64,
+        "offset_from_group_start": 0.56,
+        "x": 0.591667,
+        "y": 0.4
+      },
+      {
+        "vcti_oid": "772",
+        "track": "V7",
+        "text": "vidéos",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 49.68,
+        "end_sec": 50.56,
+        "dur_sec": 0.88,
+        "offset_from_group_start": 1.2,
+        "x": 0.591667,
+        "y": 0.4
+      },
+      {
+        "vcti_oid": "773",
+        "track": "V7",
+        "text": "séances",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 50.56,
+        "end_sec": 51.12,
+        "dur_sec": 0.56,
+        "offset_from_group_start": 2.08,
+        "x": 0.591667,
+        "y": 0.4
+      }
+    ],
+    "text_start_sec": 48.48,
+    "text_end_sec": 51.12,
+    "text_duration_sec": 2.64,
+    "marker_name_from_v4": "TXT_CASCADE_3_RIGHT",
+    "marker_start_sec": 48.48,
+    "marker_end_sec": 51.12,
+    "marker_dur_sec": 2.64
+  },
+  {
+    "template_name": "TXT_3M_RIGHT_ DOWNTOUP",
+    "group_index": 19,
+    "timeline_start_sec": 53.04,
+    "timeline_end_sec": 57.8,
+    "total_duration_sec": 4.76,
+    "n_text_layers": 4,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7",
+      "V8"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "712",
+        "track": "V5",
+        "text": "contenu",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 53.04,
+        "end_sec": 54.08,
+        "dur_sec": 1.04,
+        "offset_from_group_start": 0.0,
+        "x": 0.853385,
+        "y": 0.537963
+      },
+      {
+        "vcti_oid": "746",
+        "track": "V6",
+        "text": "cours",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 54.0,
+        "end_sec": 55.12,
+        "dur_sec": 1.12,
+        "offset_from_group_start": 0.96,
+        "x": 0.853385,
+        "y": 0.537963
+      },
+      {
+        "vcti_oid": "774",
+        "track": "V7",
+        "text": "sans cadre",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 55.04,
+        "end_sec": 56.56,
+        "dur_sec": 1.52,
+        "offset_from_group_start": 2.0,
+        "x": 0.845535,
+        "y": 0.584259
+      },
+      {
+        "vcti_oid": "788",
+        "track": "V8",
+        "text": "0 progression",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 56.52,
+        "end_sec": 57.8,
+        "dur_sec": 1.28,
+        "offset_from_group_start": 3.48,
+        "x": 0.853385,
+        "y": 0.446296
+      }
+    ],
+    "text_start_sec": 53.04,
+    "text_end_sec": 57.8,
+    "text_duration_sec": 4.76,
+    "marker_name_from_v4": "TXT_3M_RIGHT_ DOWNTOUP",
+    "marker_start_sec": 53.04,
+    "marker_end_sec": 57.8,
+    "marker_dur_sec": 4.76
+  },
+  {
+    "template_name": "TXT_4M_SPECIAL_1",
+    "group_index": 20,
+    "timeline_start_sec": 59.04,
+    "timeline_end_sec": 61.72,
+    "total_duration_sec": 2.68,
+    "n_text_layers": 4,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "713",
+        "track": "V5",
+        "text": "pourquoi",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "no_style",
+        "start_sec": 59.04,
+        "end_sec": 61.72,
+        "dur_sec": 2.68,
+        "offset_from_group_start": 0.0,
+        "x": 0.060937,
+        "y": 0.426389
+      },
+      {
+        "vcti_oid": "747",
+        "track": "V6",
+        "text": "ça marche ?",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 59.16,
+        "end_sec": 60.36,
+        "dur_sec": 1.2,
+        "offset_from_group_start": 0.12,
+        "x": 0.055729,
+        "y": 0.491204
+      },
+      {
+        "vcti_oid": "748",
+        "track": "V6",
+        "text": "ça marche",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 60.52,
+        "end_sec": 61.72,
+        "dur_sec": 1.2,
+        "offset_from_group_start": 1.48,
+        "x": 0.629687,
+        "y": 0.491204
+      },
+      {
+        "vcti_oid": "775",
+        "track": "V7",
+        "text": "plus ?",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 60.84,
+        "end_sec": 61.72,
+        "dur_sec": 0.88,
+        "offset_from_group_start": 1.8,
+        "x": 0.626022,
+        "y": 0.509262
+      }
+    ],
+    "text_start_sec": 59.04,
+    "text_end_sec": 61.72,
+    "text_duration_sec": 2.68,
+    "marker_name_from_v4": "TXT_4M_SPECIAL_1",
+    "marker_start_sec": 59.04,
+    "marker_end_sec": 61.72,
+    "marker_dur_sec": 2.68
+  },
+  {
+    "template_name": "TXT_3M_POP_UPTODOWN",
+    "group_index": 21,
+    "timeline_start_sec": 63.4,
+    "timeline_end_sec": 65.24,
+    "total_duration_sec": 1.84,
+    "n_text_layers": 3,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "714",
+        "track": "V5",
+        "text": "slice",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 63.4,
+        "end_sec": 64.72,
+        "dur_sec": 1.32,
+        "offset_from_group_start": 0.0,
+        "x": 0.723958,
+        "y": 0.462494
+      },
+      {
+        "vcti_oid": "749",
+        "track": "V6",
+        "text": "chiken wing",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 63.68,
+        "end_sec": 65.0,
+        "dur_sec": 1.32,
+        "offset_from_group_start": 0.28,
+        "x": 0.123958,
+        "y": 0.555556
+      },
+      {
+        "vcti_oid": "776",
+        "track": "V7",
+        "text": "gratte",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Appear Up"
+        ],
+        "style": "no_style",
+        "start_sec": 63.92,
+        "end_sec": 65.24,
+        "dur_sec": 1.32,
+        "offset_from_group_start": 0.52,
+        "x": 0.806771,
+        "y": 0.806944
+      }
+    ],
+    "text_start_sec": 63.4,
+    "text_end_sec": 65.24,
+    "text_duration_sec": 1.84,
+    "marker_name_from_v4": "TXT_3M_POP_UPTODOWN",
+    "marker_start_sec": 63.4,
+    "marker_end_sec": 65.24,
+    "marker_dur_sec": 1.84
+  },
+  {
+    "template_name": "TXT_2M_1_ACCENT_RIGHT",
+    "group_index": 22,
+    "timeline_start_sec": 66.04,
+    "timeline_end_sec": 67.2,
+    "total_duration_sec": 1.16,
+    "n_text_layers": 2,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "715",
+        "track": "V5",
+        "text": "progresser",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 66.04,
+        "end_sec": 67.2,
+        "dur_sec": 1.16,
+        "offset_from_group_start": 0.0,
+        "x": 0.16849,
+        "y": 0.325926
+      },
+      {
+        "vcti_oid": "750",
+        "track": "V6",
+        "text": "sans",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 66.04,
+        "end_sec": 67.2,
+        "dur_sec": 1.16,
+        "offset_from_group_start": 0.0,
+        "x": 0.14349,
+        "y": 0.207407
+      }
+    ],
+    "text_start_sec": 66.04,
+    "text_end_sec": 67.2,
+    "text_duration_sec": 1.16,
+    "marker_name_from_v4": "TXT_2M_1_ACCENT_RIGHT",
+    "marker_start_sec": 66.04,
+    "marker_end_sec": 67.2,
+    "marker_dur_sec": 1.16
+  },
+  {
+    "template_name": "TXT_2M_1_ACCENT_LEFT_POP_VALUE",
+    "group_index": 23,
+    "timeline_start_sec": 68.48,
+    "timeline_end_sec": 70.16,
+    "total_duration_sec": 1.68,
+    "n_text_layers": 2,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "716",
+        "track": "V5",
+        "text": "35 ans",
+        "effects": [
+          "Fade OUTT",
+          "TR - Appear Left"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 68.48,
+        "end_sec": 70.16,
+        "dur_sec": 1.68,
+        "offset_from_group_start": 0.0,
+        "x": 0.114323,
+        "y": 0.415278
+      },
+      {
+        "vcti_oid": "751",
+        "track": "V6",
+        "text": "d’XP",
+        "effects": [
+          "Fade OUTT",
+          "TR - Appear Up"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 69.04,
+        "end_sec": 70.16,
+        "dur_sec": 1.12,
+        "offset_from_group_start": 0.56,
+        "x": 0.073177,
+        "y": 0.455093
+      }
+    ],
+    "text_start_sec": 68.48,
+    "text_end_sec": 70.16,
+    "text_duration_sec": 1.68,
+    "marker_name_from_v4": "TXT_2M_1_ACCENT_LEFT_POP_VALUE",
+    "marker_start_sec": 68.48,
+    "marker_end_sec": 70.16,
+    "marker_dur_sec": 1.68
+  },
+  {
+    "template_name": "TXT_2M_1_ACCENT_ RIGHT_POP_VALUE",
+    "group_index": 24,
+    "timeline_start_sec": 71.4,
+    "timeline_end_sec": 73.08,
+    "total_duration_sec": 1.68,
+    "n_text_layers": 2,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "717",
+        "track": "V5",
+        "text": "15 ans",
+        "effects": [
+          "TR - Appear Right",
+          "Fade OUTT"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 71.4,
+        "end_sec": 73.08,
+        "dur_sec": 1.68,
+        "offset_from_group_start": 0.0,
+        "x": 0.673698,
+        "y": 0.415278
+      },
+      {
+        "vcti_oid": "752",
+        "track": "V6",
+        "text": "pro",
+        "effects": [
+          "Fade OUTT",
+          "TR - Appear Up"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 71.8,
+        "end_sec": 73.08,
+        "dur_sec": 1.28,
+        "offset_from_group_start": 0.4,
+        "x": 0.632552,
+        "y": 0.455093
+      }
+    ],
+    "text_start_sec": 71.4,
+    "text_end_sec": 73.08,
+    "text_duration_sec": 1.68,
+    "marker_name_from_v4": "TXT_2M_1_ACCENT_ RIGHT_POP_VALUE",
+    "marker_start_sec": 71.4,
+    "marker_end_sec": 73.08,
+    "marker_dur_sec": 1.68
+  },
+  {
+    "template_name": "TXT_3M_1_ACCENT_ RIGHT",
+    "group_index": 25,
+    "timeline_start_sec": 74.24,
+    "timeline_end_sec": 75.28,
+    "total_duration_sec": 1.04,
+    "n_text_layers": 3,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "718",
+        "track": "V5",
+        "text": "pas avec",
+        "effects": [
+          "TR - Appear Right"
+        ],
+        "style": "no_style",
+        "start_sec": 74.24,
+        "end_sec": 75.28,
+        "dur_sec": 1.04,
+        "offset_from_group_start": 0.0,
+        "x": 0.631771,
+        "y": 0.405556
+      },
+      {
+        "vcti_oid": "753",
+        "track": "V6",
+        "text": "le temps",
+        "effects": [
+          "TR - Appear Left"
+        ],
+        "style": "no_style",
+        "start_sec": 74.52,
+        "end_sec": 75.28,
+        "dur_sec": 0.76,
+        "offset_from_group_start": 0.28,
+        "x": 0.604688,
+        "y": 0.495835
+      },
+      {
+        "vcti_oid": "777",
+        "track": "V7",
+        "text": "d’un pro",
+        "effects": [
+          "TR - Appear Up"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 74.96,
+        "end_sec": 75.28,
+        "dur_sec": 0.32,
+        "offset_from_group_start": 0.72,
+        "x": 0.64481,
+        "y": 0.475463
+      }
+    ],
+    "text_start_sec": 74.24,
+    "text_end_sec": 75.28,
+    "text_duration_sec": 1.04,
+    "marker_name_from_v4": "TXT_3M_1_ACCENT_ RIGHT",
+    "marker_start_sec": 74.24,
+    "marker_end_sec": 75.28,
+    "marker_dur_sec": 1.04
+  },
+  {
+    "template_name": "TXT_4M_1_ACCENT_ RIGHT",
+    "group_index": 26,
+    "timeline_start_sec": 76.2,
+    "timeline_end_sec": 77.96,
+    "total_duration_sec": 1.76,
+    "n_text_layers": 4,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7",
+      "V8"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "719",
+        "track": "V5",
+        "text": "il",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 76.2,
+        "end_sec": 77.96,
+        "dur_sec": 1.76,
+        "offset_from_group_start": 0.0,
+        "x": 0.719254,
+        "y": 0.3125
+      },
+      {
+        "vcti_oid": "754",
+        "track": "V6",
+        "text": "se joue",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 76.44,
+        "end_sec": 77.96,
+        "dur_sec": 1.52,
+        "offset_from_group_start": 0.24,
+        "x": 0.577362,
+        "y": 0.399094
+      },
+      {
+        "vcti_oid": "778",
+        "track": "V7",
+        "text": "dans la",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 76.6,
+        "end_sec": 77.96,
+        "dur_sec": 1.36,
+        "offset_from_group_start": 0.4,
+        "x": 0.610138,
+        "y": 0.37175
+      },
+      {
+        "vcti_oid": "789",
+        "track": "V8",
+        "text": "réalité",
+        "effects": [
+          "TR - Appear Down"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 77.12,
+        "end_sec": 77.96,
+        "dur_sec": 0.84,
+        "offset_from_group_start": 0.92,
+        "x": 0.624207,
+        "y": 0.57225
+      }
+    ],
+    "text_start_sec": 76.2,
+    "text_end_sec": 77.96,
+    "text_duration_sec": 1.76,
+    "marker_name_from_v4": "TXT_4M_1_ACCENT_ RIGHT",
+    "marker_start_sec": 76.2,
+    "marker_end_sec": 77.96,
+    "marker_dur_sec": 1.76
+  },
+  {
+    "template_name": "TXT_1M_ACCENT_ MIDDLE_DOWN_FADEIN",
+    "group_index": 27,
+    "timeline_start_sec": 78.52,
+    "timeline_end_sec": 79.16,
+    "total_duration_sec": 0.64,
+    "n_text_layers": 1,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "720",
+        "track": "V5",
+        "text": "SSP",
+        "effects": [
+          "Fade OUTT",
+          "Fade IN"
+        ],
+        "style": "other:1ef2dac0-feea-4da8-a",
+        "start_sec": 78.52,
+        "end_sec": 79.16,
+        "dur_sec": 0.64,
+        "offset_from_group_start": 0.0,
+        "x": 0.499935,
+        "y": 0.885648
+      }
+    ],
+    "text_start_sec": 78.52,
+    "text_end_sec": 79.16,
+    "text_duration_sec": 0.64,
+    "marker_name_from_v4": "TXT_1M_ACCENT_ MIDDLE_DOWN_FADEIN",
+    "marker_start_sec": 78.52,
+    "marker_end_sec": 79.16,
+    "marker_dur_sec": 0.64
+  },
+  {
+    "template_name": "TXT_5M_POP_LEFT_RIGHT",
+    "group_index": 28,
+    "timeline_start_sec": 80.6,
+    "timeline_end_sec": 84.68,
+    "total_duration_sec": 4.08,
+    "n_text_layers": 5,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7",
+      "V8"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "721",
+        "track": "V5",
+        "text": "matériel",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 80.6,
+        "end_sec": 81.36,
+        "dur_sec": 0.76,
+        "offset_from_group_start": 0.0,
+        "x": 0.236719,
+        "y": 0.357407
+      },
+      {
+        "vcti_oid": "722",
+        "track": "V5",
+        "text": "performance",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 81.96,
+        "end_sec": 82.72,
+        "dur_sec": 0.76,
+        "offset_from_group_start": 1.36,
+        "x": 0.236719,
+        "y": 0.245833
+      },
+      {
+        "vcti_oid": "755",
+        "track": "V6",
+        "text": "stratégie",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 81.24,
+        "end_sec": 82.0,
+        "dur_sec": 0.76,
+        "offset_from_group_start": 0.64,
+        "x": 0.782552,
+        "y": 0.279167
+      },
+      {
+        "vcti_oid": "779",
+        "track": "V7",
+        "text": "physique",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 82.72,
+        "end_sec": 83.84,
+        "dur_sec": 1.12,
+        "offset_from_group_start": 2.12,
+        "x": 0.760101,
+        "y": 0.356934
+      },
+      {
+        "vcti_oid": "790",
+        "track": "V8",
+        "text": "mobilité",
+        "effects": [
+          "TR - Fade Out",
+          "TR - Fade In"
+        ],
+        "style": "other:e0b82eba-6d63-41ec-b",
+        "start_sec": 83.72,
+        "end_sec": 84.68,
+        "dur_sec": 0.96,
+        "offset_from_group_start": 3.12,
+        "x": 0.254948,
+        "y": 0.385648
+      }
+    ],
+    "text_start_sec": 80.6,
+    "text_end_sec": 84.68,
+    "text_duration_sec": 4.08,
+    "marker_name_from_v4": "TXT_5M_POP_LEFT_RIGHT",
+    "marker_start_sec": 80.6,
+    "marker_end_sec": 84.68,
+    "marker_dur_sec": 4.08
+  },
+  {
+    "template_name": "TXT_4M_BRUT_RIGHT",
+    "group_index": 29,
+    "timeline_start_sec": 85.68,
+    "timeline_end_sec": 87.44,
+    "total_duration_sec": 1.76,
+    "n_text_layers": 4,
+    "n_markers": 1,
+    "tracks_used": [
+      "V5",
+      "V6",
+      "V7",
+      "V8"
+    ],
+    "layers": [
+      {
+        "vcti_oid": "723",
+        "track": "V5",
+        "text": "un",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 85.68,
+        "end_sec": 87.44,
+        "dur_sec": 1.76,
+        "offset_from_group_start": 0.0,
+        "x": 0.719254,
+        "y": 0.3125
+      },
+      {
+        "vcti_oid": "756",
+        "track": "V6",
+        "text": "miracle",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 85.92,
+        "end_sec": 87.44,
+        "dur_sec": 1.52,
+        "offset_from_group_start": 0.24,
+        "x": 0.577362,
+        "y": 0.399094
+      },
+      {
+        "vcti_oid": "780",
+        "track": "V7",
+        "text": "en",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 86.08,
+        "end_sec": 87.44,
+        "dur_sec": 1.36,
+        "offset_from_group_start": 0.4,
+        "x": 0.613434,
+        "y": 0.385208
+      },
+      {
+        "vcti_oid": "791",
+        "track": "V8",
+        "text": "1H ?",
+        "effects": [],
+        "style": "no_style",
+        "start_sec": 86.32,
+        "end_sec": 87.44,
+        "dur_sec": 1.12,
+        "offset_from_group_start": 0.64,
+        "x": 0.715454,
+        "y": 0.443985
+      }
+    ],
+    "text_start_sec": 85.68,
+    "text_end_sec": 87.44,
+    "text_duration_sec": 1.76,
+    "marker_name_from_v4": "TXT_4M_BRUT_RIGHT",
+    "marker_start_sec": 85.68,
+    "marker_end_sec": 87.44,
+    "marker_dur_sec": 1.76
+  }
+]
